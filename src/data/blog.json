@@ -1,0 +1,44 @@
+{
+    "data":[
+        {"id":1,
+            "blogCategory": "Featured",
+            "blogTitle": "Fitness Mantra To Live a Fit Life",
+            "postedOn": "July 21, 2016",
+            "author": "Bright Jones",
+            "blogImage": "",
+            "blogText": "Miss it first and you're divided. There won't be another option."
+        },
+        {"id":2,
+            "blogCategory": "Simple",
+            "blogTitle": "Special Offers To Live a Fit Life",
+            "postedOn": "July 23, 2018",
+            "author": "Irene Jones",
+            "blogImage": "",
+            "blogText": "I said it first. There won't be a second time."
+        },
+        {"id":3,
+            "blogCategory": "Simple",
+            "blogTitle": "Beauty Lies Within",
+            "postedOn": "April 11, 2020",
+            "author": "Nelo Udeka",
+            "blogImage": "",
+            "blogText": "So amazing to be here. There you have it."
+        },
+        {"id":4,
+            "blogCategory": "Featured",
+            "blogTitle": "Blessings From Above.",
+            "postedOn": "August 1, 2019",
+            "author": "Titat Mamalowo",
+            "blogImage": "",
+            "blogText": "Groundnut heads could still be loved. Even with belly for two"
+        },
+        {"id":5,
+            "blogCategory": "Simple",
+            "blogTitle": "Overstand And Stand Over",
+            "postedOn": "January 23, 2020",
+            "author": "Bright Redux",
+            "blogImage": "",
+            "blogText": "Now you know it. You won't be second guessing."
+        }
+    ]
+}
