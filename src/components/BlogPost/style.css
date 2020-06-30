@@ -5,3 +5,9 @@
 .blogHeader{
     text-align: center;
 }
+
+.postTitle{
+    letter-spacing: 0.5px;
+    transform: capitalize;
+    font-size: 30px;
+}
